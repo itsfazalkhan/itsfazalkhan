@@ -1,7 +1,6 @@
 # Hi there, I'm Fazal Khan! 👋
 
 ## About Me
-## About Me
 I'm an IoT Engineer based in Bengaluru. I'm passionate about exploring technology and understanding how things work. I thrive on learning new technologies and discovering different ways we can use them to solve problems. I love challenging myself to push the boundaries of what's possible and finding innovative solutions to real-world challenges.
 
 ## What I'm Learning
