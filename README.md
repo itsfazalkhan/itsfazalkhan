@@ -9,7 +9,7 @@ I'm an IoT Engineer based in Bengaluru. I'm passionate about exploring technolog
 
 ## Get in Touch
 - LinkedIn: [itsfazalkhan](https://www.linkedin.com/in/itsfazalkhan/)
-- Email: [itsfazalkhan9@gmail.com]
+- Email: [itsfazalkhan9@gmail.com](https://mailto:itsfazalkhan9@gmail.com)
 
 Feel free to reach out to me via any of the above channels. I'm always interested in connecting with fellow developers and tech enthusiasts!
 
