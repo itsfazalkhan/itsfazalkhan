@@ -6,6 +6,7 @@ I'm an IoT Engineer based in Bengaluru. I'm passionate about exploring technolog
 ## What I'm Learning
 - Tensor Flow
 - Django Framework
+- ML on Edge-devices
 
 ## Get in Touch
 - LinkedIn: [itsfazalkhan](https://www.linkedin.com/in/itsfazalkhan/)
@@ -14,7 +15,9 @@ I'm an IoT Engineer based in Bengaluru. I'm passionate about exploring technolog
 Feel free to reach out to me via any of the above channels. I'm always interested in connecting with fellow developers and tech enthusiasts!
 
 ## Fun Fact
-[Fun Fact about Yourself]
+- I have a passion for photography, capturing the essence of beauty in every frame.
+- I'm a devout enthusiast of religion and theology. I can engage in spirited discussions about faith, belief systems, and their societal implications for hours on end.
+- I've been practising meditation for 4.5 years and find it deeply transformative.
 
 ## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsfazalkhan&show_icons=true&theme=dark)
